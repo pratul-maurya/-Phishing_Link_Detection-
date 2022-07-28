@@ -37,8 +37,8 @@ Rule:
 6. The Existence of “HTTPS” Token in the Domain Part of the URL (1.1.12)
 The phishers may add the “HTTPS” token to the domain part of a URL in order to trick users. 
 Rule: 
-● Using HTTP Token in Domain Part of The URL → Phishing 
-● Otherwise → Legitimate
+● Using HTTP Token in Domain Part of The URL → Phishing /n
+● Otherwise → Legitimate/n
 
 The python program checks the given URL for the following 2 phishing rules: 
 7. Domain Registration Length (1.1.9)
@@ -54,6 +54,7 @@ Rule:
 ● Otherwise → Legitimate
 
 Screenshots of output –
+
 ![image](https://user-images.githubusercontent.com/70075276/181445605-3f878c6a-78d3-43f8-b8ff-6f662873325c.png)
 ![image](https://user-images.githubusercontent.com/70075276/181445674-0961056f-2f03-485d-98ed-89fa244eb192.png)
 ![image](https://user-images.githubusercontent.com/70075276/181445693-f88214a6-fb93-4f50-8324-e637e74424ea.png)
